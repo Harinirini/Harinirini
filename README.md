@@ -76,7 +76,7 @@ To become a skilled Software Developer who builds impactful, scalable, and user-
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="www.linkedin.com/in/harini-p-a75b19328">
+<a href="https://www.linkedin.com/in/harini-p-a75b19328/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
