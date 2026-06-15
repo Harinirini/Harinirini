@@ -73,12 +73,11 @@ To become a skilled Software Developer who builds impactful, scalable, and user-
 - 📖 Continuous Learning
 
 ---
+## 🤝 Let's Connect
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="www.linkedin.com/in/harini-p-a75b19328" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Harini%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+<a href="www.linkedin.com/in/harini-p-a75b19328">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 ---
