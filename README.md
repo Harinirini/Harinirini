@@ -1,16 +1,38 @@
-## Hi there 👋
-## I am harini
-<!--
-**Harinirini/Harinirini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Harini</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🌱 Currently learning Data Structures and Algorithms
+- 💻 Interested in Software Development and Web Development
+- 🚀 Building projects and improving my coding skills
+- 📚 Exploring Java, Python, and SQL
+
+---
+
+### 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinirini&show_icons=true)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harinirini)
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/harini-r-596917352
