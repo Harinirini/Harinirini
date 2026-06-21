@@ -8,19 +8,19 @@ Passionate about transforming ideas into meaningful software solutions through c
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Enthusiastic about Software Development and Technology
-- 📚 Strengthening Data Structures and Algorithms
-- 🌐 Exploring Web Development and Modern Software Practices
-- 🛠️ Building projects to enhance practical knowledge
-- 🧩 Improving problem-solving and logical thinking skills
-- 🤝 Open to learning, collaboration, and new opportunities
+- Computer Science Engineering Student
+- Enthusiastic about Software Development and Technology
+- Strengthening Data Structures and Algorithms
+- Exploring Web Development and Modern Software Practices
+- Building projects to enhance practical knowledge
+- Improving problem-solving and logical thinking skills
+- Open to learning, collaboration, and new opportunities
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -49,7 +49,7 @@ Passionate about transforming ideas into meaningful software solutions through c
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Data Structures and Algorithms
 - Full Stack Development
@@ -58,19 +58,15 @@ Passionate about transforming ideas into meaningful software solutions through c
 
 ---
 
-## 🎯 Career Goal
-
-To become a skilled Software Developer who builds impactful, scalable, and user-focused applications while continuously growing through real-world experience and innovation.
-
 ---
 
-## 📚 Beyond Coding
+## Beyond Coding
 
-- 🧩 Problem Solving
-- 🎨 UI/UX Design
-- 🤝 Team Collaboration
-- 💬 Effective Communication
-- 📖 Continuous Learning
+- Problem Solving
+- UI/UX Design
+- Team Collaboration
+- Effective Communication
+- Continuous Learning
 
 ---
 ## 🤝 Let's Connect
